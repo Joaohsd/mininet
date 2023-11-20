@@ -1,6 +1,6 @@
 # **Mininet Final Work**
 
-This repository is used to present the development of final Mininet work in "C115 - Conceitos e Tecnologias para Dispostivos Conectados" subject from INATEL.
+This repository is used to present the development of final Mininet work in **"C115 - Conceitos e Tecnologias para Dispostivos Conectados"** subject from **INATEL**.
 
 ## **Pre-requirements**
 *   Python 3.8+
