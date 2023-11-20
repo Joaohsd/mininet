@@ -59,7 +59,6 @@ cli.do_net(_line=None)
 print(colored_text('Getting IP address for all hosts interfaces', "\033[31m"))
 cli.do_dump(_line=None)
 
-
 print(colored_text('Getting MAC Address for all hosts interfaces', "\033[31m"))
 for host_index in range(len(net.hosts)):
     cli.do_py(f'h{host_index+1}.MAC()')
