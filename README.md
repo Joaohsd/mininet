@@ -12,9 +12,9 @@ In order to install Mininet, just access the link below and follow the instructi
 
 [Mininet installation](https://networksimulationtools.com/how-to-install-mininet-in-ubuntu/)
 
-In order to run this project, after installed Mininet, just run the command below:
-
 ## **Running**
+
+In order to run this project, after installed Mininet, just run the command below:
 
 ```shell
 python3 topo.py
